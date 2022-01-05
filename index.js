@@ -6,7 +6,7 @@ const Web3 = require('web3');
 const RPC_URL = 'https://speedy-nodes-nyc.moralis.io/d44470d547a3d8c0a629af29/eth/kovan';
 //const RPC_URL = 'https://speedy-nodes-nyc.moralis.io/d44470d547a3d8c0a629af29/eth/mainnet';
 const ADDRESS = '0x32aD396f4ff132867D80E579b3fa38d438d37cCC';
-const OTHER_ADDRESS = '0x83E82Eb96cDb817d3DFfE6Dda97Db1F850285102';
+const OTHER_ADDRESS = '0xD3990695c20EFE284C03C0289d8872e94F69CC40';
 
 // load web3
 const web3 = new Web3(RPC_URL);
